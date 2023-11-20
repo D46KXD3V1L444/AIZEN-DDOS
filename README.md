@@ -3,7 +3,7 @@ Distributed Denial Of Service (DDoS) attacks are a subclass of denial of service
 
 Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DDOS ATTACKs WITHOUT SITE OWNER'S PERMISSION IS ILLEGAL.. SO USE IT AT YOUR OWN RISK.. WE'LL BE NOT RESPONSIBLE FOR ANY TYPES OF MISISSUES!!!
 
-How To Install Aizen-Ddos In Termux The Tool Installation Process Is Very Easy.. Just Open Your Termux & Type This Provided Commands!!
+How To Install DxD-Ddos In Termux The Tool Installation Process Is Very Easy.. Just Open Your Termux & Type This Provided Commands!!
 
 $ apt update && apt upgrade
 
@@ -17,11 +17,11 @@ $ pkg install figlet
 
 $ git clone https://github.com/D46KXD3V1L444/Aizen-Ddos.git
 
-$ cd Aizen-Ddos
+$ cd DXD-Ddos
 
-$ chmod +x AIZEN-DDos.py
+$ chmod +x DXD-DDos.py
 
-$ python2 AIZEN-DDos.py
+$ python2 DXD-DDos.py
 
 
 Your Tool Install & Setup Done!!..Now Go To Google & SearchWebsite IP FinderNow Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..
