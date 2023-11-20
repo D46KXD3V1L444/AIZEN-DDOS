@@ -30,4 +30,4 @@ After Getting The Website IP , Copy The IP & Come To The Termux.. Now Paste The 
 
 Booom!! Your Ddos Attack Had Been Started...
 
-Wed site hacking
+Wedsite hacking
