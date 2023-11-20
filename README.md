@@ -1,4 +1,4 @@
-# Aizen-Ddos
+# DxD-Ddos
 Distributed Denial Of Service (DDoS) attacks are a subclass of denial of service (DoS) attacks. A DDoS attack involves multiple connected online devices, collectively known as a botnet, which are used to overwhelm a target website with fake traffic.
 
 Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DDOS ATTACKs WITHOUT SITE OWNER'S PERMISSION IS ILLEGAL.. SO USE IT AT YOUR OWN RISK.. WE'LL BE NOT RESPONSIBLE FOR ANY TYPES OF MISISSUES!!!
