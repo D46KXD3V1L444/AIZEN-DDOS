@@ -15,7 +15,7 @@ $ pkg install git
 
 $ pkg install figlet
 
-$ git clone https://github.com/D46KXD3V1L444/Aizen-Ddos.git
+$ git clone https://github.com/D46KXD3V1L444/DXD-Ddos.git
 
 $ cd DXD-Ddos
 
